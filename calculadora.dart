@@ -1,5 +1,5 @@
 import 'dart:io';
- //Faça uma calculadora básica que pede ao usuário digite os números e esolha a operação e imprima o resultado na tela.
+ //Faça uma calculadora básica que pede ao usuario digite os números e escolha a operação e imprima o resultado na tela.
 void main() {
   stdout.write('Digite o primeiro número: ');
   double number1 = double.parse(stdin.readLineSync()!);
