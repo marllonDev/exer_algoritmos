@@ -8,7 +8,7 @@ Faça um algoritmo que leia o valor de custo de fábrica e determine o preço fi
 
   int custoFabrica = 25000;
   int imposto = 11250;//45% do valor total do custo de fabrica
-  double porcentagemRevendendor = 25 / 100;
+  double porcentagemRevendendor = 0.25;
 
   var valorFinal = (custoFabrica + imposto) * porcentagemRevendendor;
 
