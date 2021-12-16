@@ -9,8 +9,8 @@ double precoQuilo = 14.00; //preço por quilo.
 double quiloPrato = 0.750; //gramas
 double descontoTara = 0.50; //gramas
 
-var precoFinal = precoQuilo * quiloPrato - descontoTara;
+var precoFinal = precoQuilo * quiloPrato - descontoTara;//neste caso não coloquei entre () pois o algoritmo irá realizar primeiro a multiplicação e depois a subtração.
 
 print(precoFinal);
- 
+
 }
