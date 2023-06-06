@@ -1,0 +1,38 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/marll/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/marll/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/marll/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/marll/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "calculoTempo",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-06-06T11:26:58.715483Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.2"
+}
