@@ -1,0 +1,3 @@
+Um cliente de um banco tem um saldo positivo de R$500,00. Faça um algoritmo que leia um 
+cheque que entrou (compensado) e calcule o novo saldo, mostrando (escrevendo) o saldo na 
+tela.
